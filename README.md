@@ -1,4 +1,4 @@
-# Sylar154
+# Minecraft 1.12.2 modpack
 Minecraft 1.12.2 crash-report
 ---- Minecraft Crash Report ----
 
